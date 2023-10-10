@@ -1,0 +1,14 @@
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\bin\Debug\net6.0\CursoDeCSharpParteIII.exe
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\bin\Debug\net6.0\CursoDeCSharpParteIII.deps.json
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\bin\Debug\net6.0\CursoDeCSharpParteIII.runtimeconfig.json
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\bin\Debug\net6.0\CursoDeCSharpParteIII.dll
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\bin\Debug\net6.0\CursoDeCSharpParteIII.pdb
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\obj\Debug\net6.0\CursoDeCSharpParteIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\obj\Debug\net6.0\CursoDeCSharpParteIII.AssemblyInfoInputs.cache
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\obj\Debug\net6.0\CursoDeCSharpParteIII.AssemblyInfo.cs
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\obj\Debug\net6.0\CursoDeCSharpParteIII.csproj.CoreCompileInputs.cache
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\obj\Debug\net6.0\CursoDeCSharpParteIII.dll
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\obj\Debug\net6.0\refint\CursoDeCSharpParteIII.dll
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\obj\Debug\net6.0\CursoDeCSharpParteIII.pdb
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\obj\Debug\net6.0\CursoDeCSharpParteIII.genruntimeconfig.cache
+C:\CsharpProjetos\CursoDeCSharpParteIII\CursoDeCSharpParteIII\obj\Debug\net6.0\ref\CursoDeCSharpParteIII.dll

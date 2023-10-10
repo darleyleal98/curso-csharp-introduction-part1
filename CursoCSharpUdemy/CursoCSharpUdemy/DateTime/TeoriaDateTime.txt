@@ -1,0 +1,26 @@
+﻿DateTime:
+
+Um objeto do tipo DateTime armazena internamente:
+O número de ticks -> 100 nanosegundos -> desde a meia noite do dia 1° de janeiro até a data atual;
+** ele não armazena internamente a data, mas sim a quantidade de nanosegundos do primeiro dia até hoje
+
+exemplo:
+            DateTime data = DateTime.Now;
+            Console.WriteLine(data);
+            
+            retornou: 09/10/2023 04:38:48
+            internamente esse dado: 638324232044640548 **caso eu chame data.Ticks;
+
+Ele possui várias sobrecargas. Ao todo 12 maneiras de instanciar o seu construtor;
+um exemplo:
+
+DateTime dataBD = DateTime.Parse("2000-08-15");
+**Essa é uma padronização dos SGBDs
+**A imprensão será feita no padrão do país, mas no Parse deve-se usar *padrão a cima (para BD).
+
+Outro exemplo é o ParseExact() -> é possivel manipular as datas com máscaras:
+exemplo: 
+DateTime dataFormatada = DateTime.ParseExact("2000-08-15", "yyyy-MM-dd", CultureInfo.InvariantCulture); ***OU:
+
+DateTime dataFormatada = DateTime.ParseExact("15/08/2000 13:05:58", "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture);
+**Os dados informados são formatados de acordo com o padrão do país;

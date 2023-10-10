@@ -1,0 +1,14 @@
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\bin\Debug\net7.0\TrabalhoDeProgramacaoI.exe
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\bin\Debug\net7.0\TrabalhoDeProgramacaoI.deps.json
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\bin\Debug\net7.0\TrabalhoDeProgramacaoI.runtimeconfig.json
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\bin\Debug\net7.0\TrabalhoDeProgramacaoI.dll
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\bin\Debug\net7.0\TrabalhoDeProgramacaoI.pdb
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\obj\Debug\net7.0\TrabalhoDeProgramacaoI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\obj\Debug\net7.0\TrabalhoDeProgramacaoI.AssemblyInfoInputs.cache
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\obj\Debug\net7.0\TrabalhoDeProgramacaoI.AssemblyInfo.cs
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\obj\Debug\net7.0\TrabalhoDeProgramacaoI.csproj.CoreCompileInputs.cache
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\obj\Debug\net7.0\TrabalhoDeProgramacaoI.dll
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\obj\Debug\net7.0\refint\TrabalhoDeProgramacaoI.dll
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\obj\Debug\net7.0\TrabalhoDeProgramacaoI.pdb
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\obj\Debug\net7.0\TrabalhoDeProgramacaoI.genruntimeconfig.cache
+C:\CsharpProjetos\TrabalhoDeProgramacaoI\TrabalhoDeProgramacaoI\obj\Debug\net7.0\ref\TrabalhoDeProgramacaoI.dll

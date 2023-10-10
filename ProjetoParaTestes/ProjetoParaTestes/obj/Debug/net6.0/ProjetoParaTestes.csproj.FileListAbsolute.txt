@@ -1,0 +1,14 @@
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\obj\Debug\net6.0\ProjetoParaTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\obj\Debug\net6.0\ProjetoParaTestes.AssemblyInfoInputs.cache
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\obj\Debug\net6.0\ProjetoParaTestes.AssemblyInfo.cs
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\obj\Debug\net6.0\ProjetoParaTestes.csproj.CoreCompileInputs.cache
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\bin\Debug\net6.0\ProjetoParaTestes.exe
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\bin\Debug\net6.0\ProjetoParaTestes.deps.json
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\bin\Debug\net6.0\ProjetoParaTestes.runtimeconfig.json
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\bin\Debug\net6.0\ProjetoParaTestes.dll
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\bin\Debug\net6.0\ProjetoParaTestes.pdb
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\obj\Debug\net6.0\ProjetoParaTestes.dll
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\obj\Debug\net6.0\refint\ProjetoParaTestes.dll
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\obj\Debug\net6.0\ProjetoParaTestes.pdb
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\obj\Debug\net6.0\ProjetoParaTestes.genruntimeconfig.cache
+C:\CsharpProjetos\ProjetoParaTestes\ProjetoParaTestes\obj\Debug\net6.0\ref\ProjetoParaTestes.dll

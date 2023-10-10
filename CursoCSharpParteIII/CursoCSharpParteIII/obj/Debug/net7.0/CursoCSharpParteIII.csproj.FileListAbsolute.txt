@@ -1,0 +1,14 @@
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\bin\Debug\net7.0\CursoCSharpParteIII.exe
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\bin\Debug\net7.0\CursoCSharpParteIII.deps.json
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\bin\Debug\net7.0\CursoCSharpParteIII.runtimeconfig.json
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\bin\Debug\net7.0\CursoCSharpParteIII.dll
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\bin\Debug\net7.0\CursoCSharpParteIII.pdb
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\obj\Debug\net7.0\CursoCSharpParteIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\obj\Debug\net7.0\CursoCSharpParteIII.AssemblyInfoInputs.cache
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\obj\Debug\net7.0\CursoCSharpParteIII.AssemblyInfo.cs
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\obj\Debug\net7.0\CursoCSharpParteIII.csproj.CoreCompileInputs.cache
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\obj\Debug\net7.0\CursoCSharpParteIII.dll
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\obj\Debug\net7.0\refint\CursoCSharpParteIII.dll
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\obj\Debug\net7.0\CursoCSharpParteIII.pdb
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\obj\Debug\net7.0\CursoCSharpParteIII.genruntimeconfig.cache
+C:\CsharpProjetos\CursoCSharpParteIII\CursoCSharpParteIII\obj\Debug\net7.0\ref\CursoCSharpParteIII.dll

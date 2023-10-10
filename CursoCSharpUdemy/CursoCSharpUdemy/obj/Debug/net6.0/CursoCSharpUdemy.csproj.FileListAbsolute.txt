@@ -1,0 +1,14 @@
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\bin\Debug\net6.0\CursoCSharpUdemy.exe
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\bin\Debug\net6.0\CursoCSharpUdemy.deps.json
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\bin\Debug\net6.0\CursoCSharpUdemy.runtimeconfig.json
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\bin\Debug\net6.0\CursoCSharpUdemy.dll
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\bin\Debug\net6.0\CursoCSharpUdemy.pdb
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\obj\Debug\net6.0\CursoCSharpUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\obj\Debug\net6.0\CursoCSharpUdemy.AssemblyInfoInputs.cache
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\obj\Debug\net6.0\CursoCSharpUdemy.AssemblyInfo.cs
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\obj\Debug\net6.0\CursoCSharpUdemy.csproj.CoreCompileInputs.cache
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\obj\Debug\net6.0\CursoCSharpUdemy.dll
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\obj\Debug\net6.0\refint\CursoCSharpUdemy.dll
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\obj\Debug\net6.0\CursoCSharpUdemy.pdb
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\obj\Debug\net6.0\CursoCSharpUdemy.genruntimeconfig.cache
+C:\CsharpProjetos\CursoCSharpUdemy\CursoCSharpUdemy\obj\Debug\net6.0\ref\CursoCSharpUdemy.dll

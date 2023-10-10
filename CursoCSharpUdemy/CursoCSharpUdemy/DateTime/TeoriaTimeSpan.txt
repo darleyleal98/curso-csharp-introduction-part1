@@ -1,0 +1,6 @@
+﻿TimeSpan:
+
+É semelhante ao DateTime, também armazena em forma de Ticks de 100 nanosegundos;
+Possui métodos interessantes, exemplo o FromDays(1.5); -> Faz a impresão 
+das horas e minutos daquele valor passado como parametro
+**é utlizado para contagem de tempo, exemplo multas e juros;
