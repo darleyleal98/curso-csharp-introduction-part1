@@ -1,2 +1,8 @@
-*!.cs
-*!.txt
+*
+!*.txt
+!*.cs
+!**/*.csproj
+!**/*.sln
+!**/*.cshtml
+!**/*.config
+!**/*.json
