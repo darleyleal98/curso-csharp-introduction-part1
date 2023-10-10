@@ -1,0 +1,14 @@
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\bin\Debug\net6.0\ProgramacaoI.exe
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\bin\Debug\net6.0\ProgramacaoI.deps.json
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\bin\Debug\net6.0\ProgramacaoI.runtimeconfig.json
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\bin\Debug\net6.0\ProgramacaoI.dll
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\bin\Debug\net6.0\ProgramacaoI.pdb
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\obj\Debug\net6.0\ProgramacaoI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\obj\Debug\net6.0\ProgramacaoI.AssemblyInfoInputs.cache
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\obj\Debug\net6.0\ProgramacaoI.AssemblyInfo.cs
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\obj\Debug\net6.0\ProgramacaoI.csproj.CoreCompileInputs.cache
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\obj\Debug\net6.0\ProgramacaoI.dll
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\obj\Debug\net6.0\refint\ProgramacaoI.dll
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\obj\Debug\net6.0\ProgramacaoI.pdb
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\obj\Debug\net6.0\ProgramacaoI.genruntimeconfig.cache
+C:\CsharpProjetos\ProgramacaoI\ProgramacaoI\obj\Debug\net6.0\ref\ProgramacaoI.dll

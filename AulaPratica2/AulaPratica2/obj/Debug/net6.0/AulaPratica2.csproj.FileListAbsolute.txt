@@ -1,0 +1,14 @@
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\bin\Debug\net6.0\AulaPratica2.exe
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\bin\Debug\net6.0\AulaPratica2.deps.json
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\bin\Debug\net6.0\AulaPratica2.runtimeconfig.json
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\bin\Debug\net6.0\AulaPratica2.dll
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\bin\Debug\net6.0\AulaPratica2.pdb
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\obj\Debug\net6.0\AulaPratica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\obj\Debug\net6.0\AulaPratica2.AssemblyInfoInputs.cache
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\obj\Debug\net6.0\AulaPratica2.AssemblyInfo.cs
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\obj\Debug\net6.0\AulaPratica2.csproj.CoreCompileInputs.cache
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\obj\Debug\net6.0\AulaPratica2.dll
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\obj\Debug\net6.0\refint\AulaPratica2.dll
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\obj\Debug\net6.0\AulaPratica2.pdb
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\obj\Debug\net6.0\AulaPratica2.genruntimeconfig.cache
+C:\CsharpProjetos\AulaPratica2\AulaPratica2\obj\Debug\net6.0\ref\AulaPratica2.dll

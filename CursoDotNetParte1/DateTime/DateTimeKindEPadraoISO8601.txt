@@ -1,0 +1,7 @@
+﻿
+DateTimeKind:
+
+É um tipo enumerado que define três valores possíveis para a localidade da data;
+Como boa prática deve-se armazenar datas em formatp UTC (texto: BD, JSON, XML)
+Na hora de instanciar é feita a formatação local;
+

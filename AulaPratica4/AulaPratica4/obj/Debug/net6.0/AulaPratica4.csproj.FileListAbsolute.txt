@@ -1,0 +1,14 @@
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\bin\Debug\net6.0\AulaPratica4.exe
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\bin\Debug\net6.0\AulaPratica4.deps.json
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\bin\Debug\net6.0\AulaPratica4.runtimeconfig.json
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\bin\Debug\net6.0\AulaPratica4.dll
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\bin\Debug\net6.0\AulaPratica4.pdb
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\obj\Debug\net6.0\AulaPratica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\obj\Debug\net6.0\AulaPratica4.AssemblyInfoInputs.cache
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\obj\Debug\net6.0\AulaPratica4.AssemblyInfo.cs
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\obj\Debug\net6.0\AulaPratica4.csproj.CoreCompileInputs.cache
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\obj\Debug\net6.0\AulaPratica4.dll
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\obj\Debug\net6.0\refint\AulaPratica4.dll
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\obj\Debug\net6.0\AulaPratica4.pdb
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\obj\Debug\net6.0\AulaPratica4.genruntimeconfig.cache
+C:\CsharpProjetos\AulaPratica4\AulaPratica4\obj\Debug\net6.0\ref\AulaPratica4.dll
