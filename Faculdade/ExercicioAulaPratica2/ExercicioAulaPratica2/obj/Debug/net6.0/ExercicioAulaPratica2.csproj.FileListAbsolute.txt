@@ -1,0 +1,4 @@
+C:\CsharpProjetos\ExercicioAulaPratica2\ExercicioAulaPratica2\obj\Debug\net6.0\ExercicioAulaPratica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\ExercicioAulaPratica2\ExercicioAulaPratica2\obj\Debug\net6.0\ExercicioAulaPratica2.AssemblyInfoInputs.cache
+C:\CsharpProjetos\ExercicioAulaPratica2\ExercicioAulaPratica2\obj\Debug\net6.0\ExercicioAulaPratica2.AssemblyInfo.cs
+C:\CsharpProjetos\ExercicioAulaPratica2\ExercicioAulaPratica2\obj\Debug\net6.0\ExercicioAulaPratica2.csproj.CoreCompileInputs.cache

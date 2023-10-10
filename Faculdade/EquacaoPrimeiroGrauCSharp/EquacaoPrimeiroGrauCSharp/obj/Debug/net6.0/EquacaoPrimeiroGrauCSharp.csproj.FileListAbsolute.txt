@@ -1,0 +1,14 @@
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\bin\Debug\net6.0\EquacaoPrimeiroGrauCSharp.exe
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\bin\Debug\net6.0\EquacaoPrimeiroGrauCSharp.deps.json
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\bin\Debug\net6.0\EquacaoPrimeiroGrauCSharp.runtimeconfig.json
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\bin\Debug\net6.0\EquacaoPrimeiroGrauCSharp.dll
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\bin\Debug\net6.0\EquacaoPrimeiroGrauCSharp.pdb
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\obj\Debug\net6.0\EquacaoPrimeiroGrauCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\obj\Debug\net6.0\EquacaoPrimeiroGrauCSharp.AssemblyInfoInputs.cache
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\obj\Debug\net6.0\EquacaoPrimeiroGrauCSharp.AssemblyInfo.cs
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\obj\Debug\net6.0\EquacaoPrimeiroGrauCSharp.csproj.CoreCompileInputs.cache
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\obj\Debug\net6.0\EquacaoPrimeiroGrauCSharp.dll
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\obj\Debug\net6.0\refint\EquacaoPrimeiroGrauCSharp.dll
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\obj\Debug\net6.0\EquacaoPrimeiroGrauCSharp.pdb
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\obj\Debug\net6.0\EquacaoPrimeiroGrauCSharp.genruntimeconfig.cache
+C:\CsharpProjetos\EquacaoPrimeiroGrauCSharp\EquacaoPrimeiroGrauCSharp\obj\Debug\net6.0\ref\EquacaoPrimeiroGrauCSharp.dll

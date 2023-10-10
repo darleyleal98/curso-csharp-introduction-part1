@@ -1,0 +1,76 @@
+﻿Resumo sobre os tópicos especiais das aulas do Curso de C#, 09/10/23
+
+Var:
+
+É utilizado quando não precisamos declarar o tipo da várivel,
+pois ela será iniciada de acordo com o valor passado.
+É usado principalmente quando temos tipos muito longos,
+exemplo sem o var: MatrizBidimensional matriz = new MatrizBidimensional();
+exemplo com o var: var matriz = new MatrizBidimensional();
+Não deve ser sempre usado ao invés de usar os tipos, sem cautela pode causar
+problemas no momento da compilação.
+
+
+Switch-case:
+
+É uma estrutura opcional ao If e Else quando a condição envolve o teste do valor de uma variável
+exemplo: No exemplo a baixo o usuário vai digitar um dia da semana que será atribuido a váriavel
+x, que será testada pelo switch, caso x seja algumas das opções entra no case executa aquela função
+**Código fica mais declarativo** e sem a "poluição" dos encadeamentos dos ifs.
+Ao fnal deve adicionar o caso defalt que funciona como um else, se nenhuma funcionar ele cai nessa opção.
+
+int x = int.Parse(Console.ReadLine());
+string day;
+
+switch (x) 
+{
+    case 1:
+        day = "Sunday";
+        break;
+}
+
+
+If ternário:
+
+É utilizado quando deseja um valor com base em uma condição:
+exemplo:
+
+( condicao ) ? valorVerdadeiro : valorFalso; **exemplo da lógica de como funciona**
+
+exemplo de código:
+
+(2 > 4) ? 50 : 80; **Resultado será 80, pois o '?' funciona como um if onde a condição
+vem antes, se der verdadeira resultado será 50, senão 80;
+
+(10 != 3) ? "Maria" : "Alex"; ** Nesse caso o resultado será Maria pois a condição
+indica "SE 10 for diferente de 3 -> Faça: Maria, senão Alex"
+
+
+Funções para Strings: 
+**String é imutável, você não pode alterar seu valor, quando
+usa as funções a nova váriavel apenas aponta para esses dados e converte a cópia, sem
+mexer na original;**
+
+ToUpper() -> Converte strings para maiúscula;
+ToLower() -> Converte strings para minúscula;
+Trim() -> Apaga espaços em branco antes e depois do valor original;
+IndexOf() -> Retorna índice do valor procurado;
+LastIndexOf() -> Retorna última ocorrência do valor procurado;
+Substring() -> Ele possui duas sobrecargas:
+1. Indice inicial -> exemplo (3) como parâmetro ele vai recortar a string a partir do 3º elemento
+2. Indice e valor a ser recortado -> (3, 5) começa no teceiro e para no 5º elemento;
+Replace() -> Faz substituição ('a', 'x') nesse exemplo como parâmetro o método vai mudar todas as 
+letras a da string por x.
+
+IsNullOrEmpty() -> Verifica se dados são nulos ou se a string é vazia,
+exemplo: bool verificaDados = String.IsNullOrEmpty(x); ** suponha-se que x tenha uma frase**
+ele vai retornar true ou false dependendo do resultado.
+
+IsNullOrWhiteSpace() -> Verifica nesse caso se o usuário não digitou vários espaços em
+branco dentro da string, exemplo: bool verificaDados = String.IsNullOrWhiteSpace(x);
+
+Split() -> Recorta valores de acordo com o parâmetro, exemplo:
+Split(" ") sempre que o usuário digitar um texto com espaços o método vai recota e deixar palavras seperadas.
+
+ToString() -> Faz a imprensão de um objeto convertido pela subscrita, ou formata dados e transfoma em string;
+Parse() e Convert -> Converte dados, exemplos strings em numéricos

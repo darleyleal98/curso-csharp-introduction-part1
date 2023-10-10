@@ -1,0 +1,1 @@
+C:\CsharpProjetos\GreenIT\GreenIT\GreenIT.csproj;x64

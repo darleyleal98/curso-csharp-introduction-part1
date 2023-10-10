@@ -1,0 +1,14 @@
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\bin\Debug\net6.0\AulaTeorica1.exe
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\bin\Debug\net6.0\AulaTeorica1.deps.json
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\bin\Debug\net6.0\AulaTeorica1.runtimeconfig.json
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\bin\Debug\net6.0\AulaTeorica1.dll
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\bin\Debug\net6.0\AulaTeorica1.pdb
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\obj\Debug\net6.0\AulaTeorica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\obj\Debug\net6.0\AulaTeorica1.AssemblyInfoInputs.cache
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\obj\Debug\net6.0\AulaTeorica1.AssemblyInfo.cs
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\obj\Debug\net6.0\AulaTeorica1.csproj.CoreCompileInputs.cache
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\obj\Debug\net6.0\AulaTeorica1.dll
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\obj\Debug\net6.0\refint\AulaTeorica1.dll
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\obj\Debug\net6.0\AulaTeorica1.pdb
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\obj\Debug\net6.0\AulaTeorica1.genruntimeconfig.cache
+C:\CsharpProjetos\AulaTeorica1\AulaTeorica1\obj\Debug\net6.0\ref\AulaTeorica1.dll
